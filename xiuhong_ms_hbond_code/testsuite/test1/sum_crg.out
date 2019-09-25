@@ -1,5 +1,5 @@
   pH           7
-NTR+A0001_  0.05
+NTR+A0001_  0.06
 TYR-A0003_ -0.00
 LYS+A0004_  1.00
 LYS+A0010_  1.00
@@ -21,6 +21,6 @@ LYS+A0050_  1.00
 GLU-A0056_ -1.00
 CTR-A0056_ -0.99
 ----------
-Net_Charge -5.27
-Protons    -5.27
+Net_Charge -5.26
+Protons    -5.26
 Electrons   0.00
