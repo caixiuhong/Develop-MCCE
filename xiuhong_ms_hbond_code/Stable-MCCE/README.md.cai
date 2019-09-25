@@ -14,6 +14,7 @@ Detailed modification:
 9. monte.c: add MC_smp and enumerate_new subroutines (output microstate)
 10. analysis.c: step 6 module, writen by c++  
 11. Makefile: g++ analysis.c and compile main code by c++ complier 
+12. load_param.c: add"DONOR" "ACCEPT" KEY for tpl param loading
 
 Compile:
 make clean
@@ -22,5 +23,3 @@ make
 test:
 ../testsuite/test1
 
-Todo:
-1. param_get can't get hb.tpl successfully, needs to correct
